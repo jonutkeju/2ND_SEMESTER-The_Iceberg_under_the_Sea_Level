@@ -16,7 +16,7 @@ It is a very core concept to learn how to be a Backend Dev.
 ## **4. Enterprise Architecture**
 The Departement of IT is generous enough to give the IT Students ways to bridge the gap in IT and Business.
 This Course burdens us heavily on the TOGAF Architecture concept, the main way to bridge the previously mentioned gap.
-## **5. Human and Computer Interaction
+## **5. Human and Computer Interaction**
 This Course is supposed to be taken at fourth semester, but i am delighted to be one of the few students to take it early.
 It gives insights on how to design not only a good-looking app/web, but also surrounding how one experiences it (UI/UX).
 ## **6. Calculus II**
