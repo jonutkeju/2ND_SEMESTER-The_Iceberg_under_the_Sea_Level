@@ -323,7 +323,8 @@ class Pesanan {
 `Pesanan.java` adalah class yang mengelola daftar produk yang dipesan, menghitung total harga, serta menangani proses pembayaran.
 
 ## Contoh Output
-<img src="/assets/contoh-output.png">
+Berikut adalah contoh input jika customer ingin memesan 1 Donat Keju dan 1 Kopi dengan Cash
+<img src="assets/contoh-output.png">
 
 ## Prinsip OOP yang diterapkan
 ### 1. Encapsulation
