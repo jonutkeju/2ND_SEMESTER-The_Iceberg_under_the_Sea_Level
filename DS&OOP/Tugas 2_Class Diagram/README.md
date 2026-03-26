@@ -4,13 +4,6 @@
 - **NRP:** 5027251036
 - **Kelas:** Struktur Data dan Pemrograman Berbasis Objek (B)
 
-Deskripsi kasus
-Class diagram
-Kode program Java
-Screenshot output
-Penjelasan prinsip-prinsip OOP apa saja yang diterapkan
-Penjelasan keunikan yang membedakan dengan individu lain
-
 ## Deskripsi Kasus
 Suatu cafe yang memiliki produk donat 3 rasa dan minuman 2 jenis, Owner dari cafe ingin
 pemesanan dapat dilakukan dengan cash atau QRIS. Sehingga dibuatlah program pemesanan digital
@@ -330,7 +323,7 @@ class Pesanan {
 `Pesanan.java` adalah class yang mengelola daftar produk yang dipesan, menghitung total harga, serta menangani proses pembayaran.
 
 ## Contoh Output
-...
+<img src="/assets/contoh-output.png">
 
 ## Prinsip OOP yang diterapkan
 ### 1. Encapsulation
